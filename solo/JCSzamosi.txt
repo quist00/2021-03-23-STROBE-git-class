@@ -1,7 +1,7 @@
 # Haikus (https://examples.yourdictionary.com/examples-of-haiku-poems.html)
 
 Traditional
-### Yosa Buson no actually Jake wrote this
+### Yosa Buson no actually Jake wrote this [KEEP THIS]
 Here are three examples of haiku poems from Yosa Buson (1716-1784), a haiku master poet and painter:
 
 A summer river being crossed
@@ -16,7 +16,7 @@ In the moonlight,
 The color and scent of the wisteria
 Seems far away.
 
-### Kobayashi Issa
+### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.
 Here are three examples of haiku from Kobayashi Issa (1763-1828), a renowned haiku poet:
 
 O snail
@@ -31,7 +31,7 @@ Everything I touch
 with tenderness, alas,
 pricks like a bramble.
 
-### Masaoka Shiki
+### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.
 Here are seven examples of haiku poems from Masaoka Shiki (1867-1902), credited with reviving the haiku and developing its modern format:
 
 I want to sleep
@@ -62,7 +62,7 @@ A lightning flash:
 between the forest trees
 I have seen water.
 
-### Natsume Soseki
+### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.
 Natsume Soseki (1867-1916) was a widely respected novelist who also had many fairy tales and haiku published. Here are three examples of his haikus:
 
 The lamp once out
