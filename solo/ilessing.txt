@@ -3,7 +3,8 @@
 Right at my feet!
 When did you arrive here,
 snail?
-### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line.
+### This is an intentional conflict with your solo file. [KEEP THIS]  Resolve by preserving your changes along with anything in brackets on this line. (The Greatest Translator ever!)
+
 
 While a cicada
 sings softly
